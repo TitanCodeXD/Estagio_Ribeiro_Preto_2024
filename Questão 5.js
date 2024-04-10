@@ -1,7 +1,5 @@
 // Código Javascript - Questão 5
 
-<script>
-
 function inverter(str) {
 
 let reverse = "";
@@ -15,5 +13,3 @@ return reverse;
 }
 
 console.log(inverter("tomate"));
-
-</script>
